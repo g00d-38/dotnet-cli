@@ -1,4 +1,5 @@
 # Maintainer: Aaron Brodersen <aaron at abrodersen dot com>
+# Updated: g00d
 pkgname=dotnet-cli
 pkgver="1.0.0_preview2_1_003182"
 pkgrel=2
